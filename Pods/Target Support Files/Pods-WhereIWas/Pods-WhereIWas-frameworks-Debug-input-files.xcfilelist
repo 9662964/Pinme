@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-WhereIWas/Pods-WhereIWas-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CLTypingLabel/CLTypingLabel.framework
+${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework
+${BUILT_PRODUCTS_DIR}/SwipeCellKit/SwipeCellKit.framework
